@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.d10f1a3a.css",
-    "main.js": "/my-react-app/static/js/main.d55aa889.js",
-    "static/js/453.64fc745e.chunk.js": "/my-react-app/static/js/453.64fc745e.chunk.js",
-    "index.html": "/my-react-app/index.html",
-    "main.d10f1a3a.css.map": "/my-react-app/static/css/main.d10f1a3a.css.map",
-    "main.d55aa889.js.map": "/my-react-app/static/js/main.d55aa889.js.map",
-    "453.64fc745e.chunk.js.map": "/my-react-app/static/js/453.64fc745e.chunk.js.map"
+    "main.css": "/react-da-app/static/css/main.d10f1a3a.css",
+    "main.js": "/react-da-app/static/js/main.daf2fdbb.js",
+    "static/js/453.64fc745e.chunk.js": "/react-da-app/static/js/453.64fc745e.chunk.js",
+    "index.html": "/react-da-app/index.html",
+    "main.d10f1a3a.css.map": "/react-da-app/static/css/main.d10f1a3a.css.map",
+    "main.daf2fdbb.js.map": "/react-da-app/static/js/main.daf2fdbb.js.map",
+    "453.64fc745e.chunk.js.map": "/react-da-app/static/js/453.64fc745e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d10f1a3a.css",
-    "static/js/main.d55aa889.js"
+    "static/js/main.daf2fdbb.js"
   ]
 }
